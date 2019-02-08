@@ -34,6 +34,3 @@ Of course you might get into trouble unexpectedly. One problem is that I cannot 
 
 This program is with WTFPL License. For more info about that please refer to the LICENSE file.
 
-## Who are you?
-
-If you would like to contact me you may [email me.](mailto:chickenjohn93@outlook.com)
